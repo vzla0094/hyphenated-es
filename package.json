@@ -1,0 +1,23 @@
+{
+  "name": "hyphenated-es",
+  "version": "1.2.0",
+  "keywords": [
+    "hyphenation",
+    "javascript",
+    "library",
+    "es",
+    "spanish"
+  ],
+  "homepage": "https://github.com/vzla0094/hyphenated-es",
+  "bugs": "https://github.com/vzla0094/hyphenated-es/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vzla0094/hyphenated-es.git",
+    "directory": "/"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "engines": {
+    "node": ">=8"
+  }
+}
