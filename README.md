@@ -1,4 +1,4 @@
-# hyphenated-ru
+# hyphenated-es
 
 This package contains hyphenation patterns and exceptions for the Spanish language. It is intended to be used with the main `hyphenated` package
 but not included as a dependency.
