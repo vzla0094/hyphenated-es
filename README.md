@@ -6,6 +6,12 @@ but not included as a dependency.
 See the [home page](https://github.com/sergeysolovev/hyphenated) for more
 information.
 
+## Installation
+
+```shell
+npm install hyphenated-es
+```
+
 ## License
 
 MIT
